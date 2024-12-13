@@ -25,9 +25,24 @@ extra i am typing in basicstructures
 git merge basicstructures -m "merge with messgae"
 ```
 
+
+
 ## Exp5 Git Push and Git Pull 
 Confirm upstream and push
 ```
 git branch -vv
 git push    
 ```
+
+manoj
+indraPrasad
+Akash
+Spurthi
+Ananya
+Pooja
+Apporva
+inchara
+nandan
+Mukunda
+Misba
+Asma
